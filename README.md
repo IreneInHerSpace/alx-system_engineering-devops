@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-the shell project
+0. Create a script that switches the current user to the user betty.
